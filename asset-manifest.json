@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/bootcamp2023/static/css/main.2d662240.css",
+    "main.js": "/bootcamp2023/static/js/main.acec2574.js",
+    "static/media/home_img.png": "/bootcamp2023/static/media/home_img.4a06769077f0abc21742.png",
+    "static/media/Jost-Medium.ttf": "/bootcamp2023/static/media/Jost-Medium.49273d86e64ba1ff3a2c.ttf",
+    "static/media/Jost-Regular.ttf": "/bootcamp2023/static/media/Jost-Regular.d4084cb48f36197c90b9.ttf",
+    "static/media/gallery.png": "/bootcamp2023/static/media/gallery.be4b78ab0119e5fa735b.png",
+    "static/media/voting.png": "/bootcamp2023/static/media/voting.9346979e28899671ae8a.png",
+    "static/media/breeds.png": "/bootcamp2023/static/media/breeds.4a04d0ab261acb8d9a54.png",
+    "static/media/logo.svg": "/bootcamp2023/static/media/logo.a35a8f3d4228f51b60044712ea2803fa.svg",
+    "static/media/eye.svg": "/bootcamp2023/static/media/eye.eb3f80ac136713b19fa862651bb15bd6.svg",
+    "static/media/eye_c.svg": "/bootcamp2023/static/media/eye_c.13e4de403b90bd375bc1b51d12db555c.svg",
+    "static/media/sorting_z_a.svg": "/bootcamp2023/static/media/sorting_z_a.c5c1714e6490b0bdf0a257a60a2afdd8.svg",
+    "static/media/sorting_a_z.svg": "/bootcamp2023/static/media/sorting_a_z.adb189026a631a6595a72f2e067c76eb.svg",
+    "static/media/favourite.svg": "/bootcamp2023/static/media/favourite.3f13b02556600547cc59855bf12c3285.svg",
+    "static/media/img_placeholder.svg": "/bootcamp2023/static/media/img_placeholder.fa0d0c5cd48963e64be197b74e18385c.svg",
+    "static/media/search.svg": "/bootcamp2023/static/media/search.26dc2a7ed555320e295a5288b64ffbb2.svg",
+    "static/media/error.svg": "/bootcamp2023/static/media/error.77d680b62ef7678640d5ea769b17094d.svg",
+    "index.html": "/bootcamp2023/index.html",
+    "static/media/success.svg": "/bootcamp2023/static/media/success.4a94fc5d492627cc3742ba88d0c42c42.svg",
+    "static/media/update.svg": "/bootcamp2023/static/media/update.936387a6a118f8ab6c47413184f2f877.svg",
+    "static/media/dislike.svg": "/bootcamp2023/static/media/dislike.792a0d2741848cf31b0a517e25524467.svg",
+    "static/media/like.svg": "/bootcamp2023/static/media/like.331ffb47d6f6fe60f3de757dde846115.svg",
+    "static/media/down_arrow.svg": "/bootcamp2023/static/media/down_arrow.4c402a93cccaf03e9358.svg",
+    "static/media/back.svg": "/bootcamp2023/static/media/back.f09125df888d26a777de0a73e577394f.svg",
+    "static/media/close.svg": "/bootcamp2023/static/media/close.2edf0c49885817ee210d38052c9d9963.svg",
+    "static/media/upload.svg": "/bootcamp2023/static/media/upload.95d011a7e6cc9da5c71e0e6b3799e489.svg",
+    "static/media/burger.svg": "/bootcamp2023/static/media/burger.3718ff9bde892c2c486513ee31d178bd.svg",
+    "main.2d662240.css.map": "/bootcamp2023/static/css/main.2d662240.css.map",
+    "main.acec2574.js.map": "/bootcamp2023/static/js/main.acec2574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d662240.css",
+    "static/js/main.acec2574.js"
+  ]
+}
